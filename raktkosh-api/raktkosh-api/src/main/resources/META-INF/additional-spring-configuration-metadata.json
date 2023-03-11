@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "com.raktkosh.JWT_SECRET",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.JWT_SECRET'"
+  },
+  {
+    "name": "com.raktkosh.JWT_VALIDITY",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.JWT_VALIDITY'"
+  },
+  {
+    "name": "com.raktkosh.JWT_ISSUER",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.JWT_ISSUER'"
+  },
+  {
+    "name": "com.raktkosh.ORIGINS",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.ORIGINS'"
+  },
+  {
+    "name": "com.raktkosh.MAIL_LINK",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.MAIL_LINK'"
+  },
+  {
+    "name": "com.raktkosh.MAIL_LINK",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.MAIL_LINK'"
+  },
+  {
+    "name": "com.raktkosh.MAIL_LINK",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.MAIL_LINK'"
+  },
+  {
+    "name": "com.raktkosh.MAIL_LINK",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.MAIL_LINK'"
+  },
+  {
+    "name": "com.raktkosh.JWT_SECRET",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.JWT_SECRET'"
+  },
+  {
+    "name": "com.raktkosh.JWT_SECRET",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.JWT_SECRET'"
+  },
+  {
+    "name": "com.raktkosh.JWT_SECRET",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.JWT_SECRET'"
+  },
+  {
+    "name": "com.raktkosh.JWT_VALIDITY",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.JWT_VALIDITY'"
+  },
+  {
+    "name": "com.raktkosh.JWT_VALIDITY",
+    "type": "java.lang.String",
+    "description": "A description for 'com.raktkosh.JWT_VALIDITY'"
+  }
+]}
